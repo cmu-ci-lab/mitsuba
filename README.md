@@ -1,2 +1,2 @@
-# mitsuba_diff_global_brdf
-Repository for differentiable mitsuba with respect to global BRDF.
+# mitsuba_dbrdf_global
+Version of mitsuba that is differentiable with respect to global BRDF.
